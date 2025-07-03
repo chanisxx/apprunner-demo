@@ -74,4 +74,6 @@ Thumbs.db
 
 # Secrets
 secrets.json
-config.json
+config.json.env
+
+describe_apprunner.py 
